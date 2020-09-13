@@ -1,0 +1,10 @@
+After sorting in Ascending order
+1 1 1 2 3 4 7 
+After removing 1th element
+1 1 2 3 4 7 
+After removing duplicate elements
+1 2 3 4 7 
+After performing next permutation:
+1 2 3 7 4 
+After performing prev permutation:
+1 2 3 4 7 

@@ -1,0 +1,204 @@
+
+
+Aspen -0.0000
+Basswood 0.0000
+Beech 0.0000
+Black Walnut -0.0000
+Cherry -0.0000
+Cottonwood -0.0000
+Cypress 0.0000
+Gum 0.0000
+Hackberry 0.0000
+Hard Maple -0.0000
+Pecan 0.0000
+Poplan -0.0000
+Red Alder 0.0000
+Red Elm 0.0000
+Red Oak 0.0000
+Sassafras -0.0000
+Soft Maple -0.0000
+Sycamore 0.0000
+White Oak -0.0000
+Willow 0.0000
+Yellow Birch 0.0000
+
+Ash -0.0000
+Aspen -0.0000
+Basswood 0.0000
+Beech 0.0000
+Black Walnut -0.0000
+Cherry 0.0000
+Cottonwood -0.0000
+Cypress 0.0000
+Gum 0.0000
+Hackberry 0.0000
+Hard Maple -0.0000
+Pecan 0.0000
+Poplan -0.0000
+Red Alder 0.0000
+Red Elm 0.0000
+Red Oak 0.0000
+Sassafras -0.0000
+Soft Maple -0.0000
+Sycamore 0.0000
+White Oak -0.0000
+Willow 0.0000
+Yellow Birch 0.0000
+
+Aspen -0.0000
+Basswood 0.0000
+Beech 0.0000
+Black Walnut -0.0000
+Cherry 0.0000
+Cottonwood -0.0000
+Cypress 0.0000
+Gum 0.0000
+Hackberry 0.0000
+Hard Maple -0.0000
+Pecan 0.0000
+Poplan -0.0000
+Red Alder 0.0000
+Red Elm 0.0000
+Red Oak 0.0000
+Sassafras -0.0000
+Soft Maple -0.0000
+Sycamore 0.0000
+White Oak -0.0000
+Willow 0.0000
+Yellow Birch 0.0000
+
+Ash -0.0000
+Aspen -0.0000
+Basswood 0.0000
+Beech 0.0000
+Black Walnut -0.0000
+Cherry 0.0000
+Cottonwood -0.0000
+Cypress 0.0000
+Gum 0.0000
+Hackberry 0.0000
+Hard Maple -0.0000
+Hickory 0.0000
+Pecan 0.0000
+Poplan -0.0000
+Red Alder 0.0000
+Red Elm 0.0000
+Red Oak 0.0000
+Sassafras -0.0000
+Soft Maple -0.0000
+Sycamore 0.0000
+White Oak -0.0000
+Willow 0.0000
+Yellow Birch 0.0000
+
+Ash -0.0000
+Aspen -0.0000
+Basswood 0.0000
+Beech 0.0000
+Black Walnut -0.0000
+Cherry 0.0000
+Cottonwood -0.0000
+Cypress 0.0000
+Gum 0.0000
+Hackberry 0.0000
+Hard Maple -0.0000
+Hickory 0.0000
+Pecan 0.0000
+Poplan -0.0000
+Red Alder 0.0000
+Red Elm 0.0000
+Red Oak -0.0000
+Sassafras -0.0000
+Soft Maple -0.0000
+Sycamore 0.0000
+White Oak -0.0000
+Willow 0.0000
+Yellow Birch 0.0000
+
+Ash -0.0000
+Aspen -0.0000
+Basswood 0.0000
+Beech 0.0000
+Cherry -0.0000
+Cottonwood -0.0000
+Cypress 0.0000
+Gum 0.0000
+Hackberry 0.0000
+Hard Maple -0.0000
+Hickory 0.0000
+Pecan 0.0000
+Poplan -0.0000
+Red Alder 0.0000
+Red Elm 0.0000
+Red Oak 0.0000
+Sassafras -0.0000
+Sycamore 0.0000
+White Oak -0.0000
+Willow 0.0000
+Yellow Birch 0.0000
+
+Ash -0.0000
+Aspen -0.0000
+Basswood 0.0000
+Beech 0.0000
+Cherry -0.0000
+Cottonwood -0.0000
+Cypress 0.0000
+Gum 0.0000
+Hackberry 0.0000
+Hard Maple -0.0000
+Hickory 0.0000
+Pecan 0.0000
+Poplan -0.0000
+Red Alder 0.0000
+Red Elm 0.0000
+Red Oak 0.0000
+Sassafras -0.0000
+Sycamore 0.0000
+White Oak -0.0000
+Willow 0.0000
+Yellow Birch 0.0000
+
+Ash -0.0000
+Aspen -0.0000
+Basswood 0.0000
+Beech 0.0000
+Cherry -0.0000
+Cottonwood -0.0000
+Cypress 0.0000
+Gum 0.0000
+Hackberry 0.0000
+Hard Maple -0.0000
+Hickory 0.0000
+Pecan 0.0000
+Poplan -0.0000
+Red Alder 0.0000
+Red Elm 0.0000
+Red Oak 0.0000
+Sassafras -0.0000
+Sycamore 0.0000
+White Oak -0.0000
+Willow 0.0000
+Yellow Birch 0.0000
+
+Ash -0.0000
+Aspen -0.0000
+Basswood 0.0000
+Beech 0.0000
+Cherry -0.0000
+Cottonwood -0.0000
+Cypress 0.0000
+Gum 0.0000
+Hackberry 0.0000
+Hard Maple -0.0000
+Hickory 0.0000
+Pecan 0.0000
+Poplan -0.0000
+Red Alder 0.0000
+Red Elm 0.0000
+Red Oak 0.0000
+Sassafras -0.0000
+Sycamore 0.0000
+White Oak -0.0000
+Willow 0.0000
+Yellow Birch 0.0000
